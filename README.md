@@ -18,8 +18,9 @@ design for **2804** DC brushless motor
 | ------- | ------------- |
 | MCU     | STM32F103C8T6 |
 | Encoder | MT6816        |
-| Current | INA240A2PWR   |
-| Driver  | DRV8313PWP    |
+| Current | INA240A2      |
+| Driver  | DRV8313       |
+| CAN     | SN65HVD232    |
 
 - [x] angle closed loop
 - [x] speed closed loop
