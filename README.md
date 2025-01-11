@@ -22,8 +22,12 @@ design for **2804** DC brushless motor
 | Driver  | DRV8313       |
 | CAN     | SN65HVD232    |
 
+- [x] can && uart commuication
+
 - [x] angle closed loop
 - [x] speed closed loop
 - [ ] current closed loop
 
- 
+### Thanks
+
+[Arduino-FOC](https://github.com/simplefoc/Arduino-FOC)
