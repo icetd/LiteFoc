@@ -4,11 +4,11 @@
 
 - top
 
-![image-20250111134646481](G:\Dev\STM32_Dev\LiteFoc\doc\top.png)
+![image-20250111134646481](doc/top.png)
 
 - bottom
 
-![image-20250111134609845](G:\Dev\STM32_Dev\LiteFoc\doc\bottom.png)
+![image-20250111134609845](doc/bottom.png)
 
 ### FrameWare
 
